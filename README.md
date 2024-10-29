@@ -2,6 +2,20 @@
 
 Ghost Writer is a desktop chat application that provides a clean interface for interacting with local AI models through Ollama. It features a modern, resizable interface with support for multiple chat sessions, theme customization, and comprehensive chat management features.
 
+## Screenshots
+
+### Dark Theme Interface
+![Dark Theme](screenshots/dark_theme.png)
+*Ghost Writer's main interface in dark mode, showing the chat list, conversation area, and resizable input box*
+
+### Light Theme Interface
+![Light Theme](screenshots/light_theme.png)
+*The same interface in light mode, demonstrating the clean, modern design*
+
+### Settings Panel
+![Settings](screenshots/settings.png)
+*Settings window showing model selection, theme options, and auto-save configuration*
+
 ## Features
 
 ### Interface
