@@ -67,7 +67,6 @@ Core dependencies include:
 2. Clone the repository:
    ```bash
    git clone https://github.com/CavemanTechandGamming/Ghost-Writer.git
-cd Ghost-Writer
    ```
 
 3. Create and activate a virtual environment (recommended):
